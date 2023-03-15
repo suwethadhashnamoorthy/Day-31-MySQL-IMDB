@@ -9,7 +9,9 @@ CREATE TABLE IMDB (
 
 
 Insert into imdb values ("Kaithi",'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Fdesktop-wallpaper-hihxx&psig=AOvVaw0P4xSsfwph3j3q8OrAwtXx&ust=1678724132386000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMis6u7k1v0CFQAAAAAdAAAAABAJ',"Commercial","Excellent","karthi","actor");
+
 Insert into imdb values ("Vaathi",'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapercave.com%2Fmaster-hd-wallpapers&psig=AOvVaw3zvUnE1mnvlSltBNkp7Qxv&ust=1678724051425000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjuycjk1v0CFQAAAAAdAAAAABAE',"Commercial","good","Vijay","actor");
+
 Insert into imdb values ("Vikram",'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fsearch%2Fprojects%3Fsearch%3DKamal%2BHaasan&psig=AOvVaw0Xju9TRpIrpR90POJYu0I6&ust=1678724223482000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLj-hJrl1v0CFQAAAAAdAAAAABAR',"Commercial","Excellent","Kamal","actor");
 
 select * from imdb;
